@@ -11,11 +11,12 @@ To browse the source code for the `FRI-Client-SDK_Cpp_v*.zip` files, see the oth
 
 [@cmower](https://github.com/cmower) is not affiliated with KUKA.
 
-The two zip files
+The three zip files
+- `FRI-Client-SDK_Cpp_v1.7.zip`
 - `FRI-Client-SDK_Cpp_v1.15.zip`
 - `FRI-Client-SDK_Cpp_v2.5.zip`
 
-are as provided by KUKA with LRB robots (both originally named `FRI-Client-SDK_Cpp.zip`).
+are as provided by KUKA with LRB robots (all originally named `FRI-Client-SDK_Cpp.zip`).
 The code contained in each zip file is unchanged.
 
 When using the CMake build option (see instructions below), a file called `fri_config.h` is generated and copied to the unzipped `fri/include/` directory so it is publically available.
